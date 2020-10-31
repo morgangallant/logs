@@ -1,0 +1,7 @@
+name = "logs_morgangallant_com"
+type = "webpack"
+account_id = "bebab53f5a3687bd363b9f59f05b7eb2"
+workers_dev = true
+route = ""
+zone_id = ""
+webpack_config = "webpack.config.js"
