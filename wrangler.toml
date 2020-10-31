@@ -5,3 +5,8 @@ workers_dev = true
 route = ""
 zone_id = ""
 webpack_config = "webpack.config.js"
+
+# Production KV Namespace
+kv_namespaces = [ 
+	 { binding = "LDB", id = "add145f159ff4fa1bb320d2589065048" }
+]
